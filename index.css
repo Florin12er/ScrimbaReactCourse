@@ -1,0 +1,57 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background : #3f3f46;
+    color: white;
+    overflow: hidden;
+}
+ul {
+    list-style: none;
+}
+li {
+    padding: 9px;
+    font-size: 18px;
+    position: relative;
+     padding-left: 20px;
+}
+span {
+    position: absolute; 
+    left: 3px;
+    bottom: 3px; 
+    color: #22d3ee;
+    font-size: 30px;
+}
+h1 {
+    margin-left: 20px;
+}
+.dashboard {
+    background: #27272a;
+    display: flex;
+    width: 100%;
+}
+.course {
+    margin-left: auto;
+    margin-right: 30px;
+    margin-top: 21px;
+}
+.react-icon {
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: 20px;
+}
+.ReactFacts {
+    color: #22d3ee;
+ margin-top: 17px;
+ font-size: 22px;   
+}
+.problem {
+    bottom: 24px;
+}
+.icon {
+    position: absolute;
+    z-index: -1;
+    left: 350px;
+    top: 60px;
+}
