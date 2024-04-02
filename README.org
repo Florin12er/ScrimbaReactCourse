@@ -5,3 +5,4 @@
 * This is my first React website.
 *** Be aware that this code only works in scrimba for some reason ,it may be because I am using an older version of react ,I don't know now I am still learning
 *** so LOL 🤪.
+*** also I am absolutelly not an emacs user
