@@ -1,0 +1,7 @@
+#+author: Sebastian
+#+description: this is my first website made with react js
+#+date:Tue Apr  2 2024
+
+* This is my first React website.
+** Be aware that this code only works in scrimba for some reason it may be because I am using an older version of react I don't know now
+** so LOL 🤪
